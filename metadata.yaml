@@ -1,0 +1,30 @@
+_repo: Kuuluisia-naisia-1Maria-Teresia---Johanna-d-Arc_16072
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fries, Ellen
+    birthdate: 1855
+    deathdate: 1900
+    gutenberg_agent_id: '6471'
+    url: http://www.gutenberg.org/2009/agents/6471
+description: ''
+gutenberg_issued: '2005-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16072'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Joan, of Arc, Saint, 1412-1431'
+- !lcc 'CT'
+- !lcsh 'Women -- Biography'
+- !lcsh 'Maria Theresa, Empress of Austria, 1717-1780'
+title: 'Kuuluisia naisia 1
+
+  Maria Teresia - Johanna d''Arc'
+url: http://www.gutenberg.org/ebooks/16072
